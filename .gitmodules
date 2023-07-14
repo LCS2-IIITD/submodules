@@ -1,0 +1,3 @@
+[submodule "SemEval2024-EDiReF"]
+	path = SemEval2024-EDiReF
+	url = https://github.com/LCS2-IIITD/SemEval2024-EDiReF
